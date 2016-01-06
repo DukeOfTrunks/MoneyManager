@@ -12,6 +12,7 @@ target/
 # Idea files
 .idea/
 *.iml
+gen-external-apklibs/
 
 # Log Files
 *.log
